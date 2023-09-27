@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game
+###Tic-Tac-Toe Game
 A simple yet engaging Tic-Tac-Toe game implemented in React.js. This project provides a fun way to explore React's core concepts, including state management and component interaction. Challenge a friend or test your skills against the computer in this classic game of strategy and wit!
 
 Features:
